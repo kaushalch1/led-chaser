@@ -66,8 +66,3 @@ schematic files
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/44df2f70-35b8-4f1e-872b-0c56458a7b17" />
 pcb files
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/3de7bcb4-49c5-4c6c-a4b7-5893b843acaf" />
-
-
-## License
-
-This project is open-source and may be used, modified, and shared for educational and personal purposes.
