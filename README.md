@@ -47,8 +47,6 @@ Although designed primarily as an educational electronics project, the Compass L
 - Portable campsite or hostel mood light
 - Gift for travel and adventure enthusiasts
 
----
-
 ## Future Improvements
 
 Possible future enhancements include:
@@ -71,6 +69,3 @@ case top view:<img width="1917" height="1015" alt="image" src="https://github.co
 case bottom view:<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/0092960d-31bc-446b-975f-1b0b8174c79a" />
 middle panel on pcb:<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/196cbccd-743b-4334-b2f0-978118ccd498" />
 top lid:<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/903258ba-048a-428c-b630-c7d2f5d11e49" />
-
-
-
